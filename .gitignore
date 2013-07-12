@@ -1,3 +1,5 @@
 ubuntu-server-12042-x64-vbox4210.box
 .DS_Store
 .vagrant/
+app/cache/
+app/logs/
