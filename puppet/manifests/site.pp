@@ -9,4 +9,5 @@ node 'default' {
   include php
   include memcache
   include mysql
+  include bashrc
 }
